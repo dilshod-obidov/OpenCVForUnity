@@ -13,7 +13,7 @@ Android Environment Setup
 4. Click the :gear: to the right of the version label, then select `Add Modules`. (NOTE: If you didn’t install the Editor via the Hub, you might not see this option. To  enable this option, [install the Editor via the Hub](https://docs.unity3d.com/2021.1/Documentation/Manual/GettingStartedInstallingHub.html))
 5. In the Add Modules dialog, locate the `Android Build Support` to add, tick its checkbox and click `Install`.
    
-![Alt text](image.png)
+![](Files/image.png)
 
 Build Settings
 -----
