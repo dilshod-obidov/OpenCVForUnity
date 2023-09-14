@@ -20,7 +20,7 @@ Build Settings
 
 1. Open the project in Unity.
 2. Go to `File > Build Settings` (Ctrl+Shift+B), select `Android` and then click on `Switch Platform`.
-3. Make sure your Android device is set up for [developer mode and USB debugging is enabled](./Android.md).
+3. Make sure your Android device is set up for [developer mode and USB debugging is enabled](Files/Android.md).
 
 Build and Run
 -----
